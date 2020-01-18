@@ -1,3 +1,6 @@
 [submodule "st"]
 	path = st
 	url = git@github.com:Tomcat-42/st.git
+[submodule "dwm"]
+	path = dwm
+	url = git@github.com:Tomcat-42/dwm.git
