@@ -10,3 +10,6 @@
 [submodule "surf"]
 	path = surf
 	url = git@github.com:Tomcat-42/surf.git
+[submodule "dmenu"]
+	path = dmenu
+	url = git@github.com:Tomcat-42/dmenu.git
