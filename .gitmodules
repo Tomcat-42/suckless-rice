@@ -7,3 +7,6 @@
 [submodule "dwmstatus"]
 	path = dwmstatus
 	url = git@github.com:Tomcat-42/dwmstatus.git
+[submodule "surf"]
+	path = surf
+	url = git@github.com:Tomcat-42/surf.git
