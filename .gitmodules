@@ -13,3 +13,6 @@
 [submodule "dmenu"]
 	path = dmenu
 	url = git@github.com:Tomcat-42/dmenu.git
+[submodule "slock"]
+	path = slock
+	url = git@github.com:Tomcat-42/slock.git
