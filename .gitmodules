@@ -16,3 +16,6 @@
 [submodule "slock"]
 	path = slock
 	url = git@github.com:Tomcat-42/slock.git
+[submodule "slstatus"]
+	path = slstatus
+	url = ./slstatus
